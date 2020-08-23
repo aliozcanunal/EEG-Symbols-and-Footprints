@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1299-8CHANNEL
+D  ADS129xLow-Power,8-Channel,24-BitAnalogFront-Endfor BiopotentialMeasurement
+$ENDCMP
+#
+#End Doc Library

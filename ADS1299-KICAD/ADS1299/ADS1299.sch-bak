@@ -1,0 +1,39 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ads1299-symbol:ADS1299-8CHANNEL U1
+U 1 1 5F42638A
+P 5350 3950
+F 0 "U1" H 6694 3991 50  0000 L CNN
+F 1 "ADS1299-8CHANNEL" H 6694 3900 50  0000 L CNN
+F 2 "Package_QFP:TQFP-64_10x10mm_P0.5mm" H 6694 3809 50  0000 L CNN
+F 3 "" H 6800 5150 50  0001 C CNN
+	1    5350 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 5150 5250 6050
+Wire Wire Line
+	5250 6050 6150 6050
+Wire Wire Line
+	6150 6050 6150 5150
+Wire Wire Line
+	4150 4750 3050 4750
+Wire Wire Line
+	3050 4750 3050 4250
+Wire Wire Line
+	3050 4250 4150 4250
+$EndSCHEMATC

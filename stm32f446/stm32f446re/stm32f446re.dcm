@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F446RE
+D STM32F446xC/E
+$ENDCMP
+#
+#End Doc Library
